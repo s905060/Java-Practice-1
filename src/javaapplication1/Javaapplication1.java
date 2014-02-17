@@ -6,7 +6,7 @@ package javaapplication1;
 
 /**
  *
- * @author jashlee
+ * @Created by s905060 on 2013.
  */
 import java.io.*;
 import java.net.URL;
