@@ -6,7 +6,7 @@ package javaapplication1;
 
 /**
  *
- * @Created by s905060 on 2013.
+ * @Created by s905060 in 2013.
  */
 import java.io.*;
 import java.net.URL;
